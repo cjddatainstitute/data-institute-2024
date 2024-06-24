@@ -78,7 +78,7 @@ Thursday, July 11
 
 ### Visualizing Data, Charts and Maps
 
-<a href="https://docs.google.com/presentation/d/1gkFt1MwdqwxSnhease3RJH_AtA61qEGyTUKJCo4C28Q/edit?usp=sharing"><img width="300" src="https://github.com/cjddatainstitute/data-institute-2023/blob/main/assets/day-4-thumbnail.png"></a>
+<a href="https://docs.google.com/presentation/d/1gkFt1MwdqwxSnhease3RJH_AtA61qEGyTUKJCo4C28Q/edit?usp=sharing"><img width="500" src="https://github.com/cjddatainstitute/data-institute-2023/blob/main/assets/day-4-thumbnail.png"></a>
 
 Intro to visualizing data
 - [Creating your first chart](https://academy.datawrapper.de/article/245-how-to-create-your-first-datawrapper-chart)
