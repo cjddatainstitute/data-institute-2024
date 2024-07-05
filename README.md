@@ -23,7 +23,7 @@ Week 2:
 - [Day 7: Web Scraping, Fundamentals of Programming](#day-7)
 - [Day 8: Even More Web Scraping](#day-8)
 - [Day 9: Continuing learning / Field Trip](#day-9)
-- [Day 10:  Final Presentations](#day-10)
+- [Day 10: Final Presentations](#day-10)
 
 ## Welcome Reception & Install Party
 
@@ -194,13 +194,30 @@ Wednesday, July 17
 ## Day 9
 Thursday, July 18 - Field trip day!
 
-In the morning, we'll meetup in the library space from 9:30 a.m. to 11:15 a.m. for a discussion about how to keep learning after the Data Institute and some work time on any projects you have. Then you can drop off your stuff at the dorm before we head out for lunch and some discussion.
+In the morning, we'll meet in our usual workspace at 9:30 a.m. for some open work time. We can talk about projects you're in the middle of, and strategies to keep learning after the Data Institute. Around 11:15 a.m., we'll break so you can drop off your stuff at the dorm before we head out for lunch and some discussion.
 
-At 12:30pm, we'll meet up at the Investigative Reporting Workshop on the campus of American University. We'll have lunch and a chance to chat with Wesley Lowery, Aarushi Sahejpal, and some investigative fellows who are there for the summer. We'll wrap up by mid-afternoon and then you're free to explore DC on your own.
+Today we'll get to visit with the Investigative Reporting Workshop on the campus of American University. 
+
+* **When:** 12:30pm, Thursday, July 18
+* **Where:** [American University, McKinley Building (School of Communication), Room 101](https://maps.app.goo.gl/4RkW7u8mB62da5ScA)
+
+At IRW, we'll have lunch and a chance to chat with Wesley Lowery, Aarushi Sahejpal, and some investigative fellows who are there for the summer. We'll wrap up by mid-afternoon and then you're free to explore DC on your own.
+
+Please coordinate with each other on transit! The McKinley Building is on the corner of American University's campus quad right next to the library. There is a prominent clock in front of the library. A couple transit notes:
+
+* If you take public transit, there's a free shuttle bus to campus from the [Tenleytown Metro Stop](https://maps.app.goo.gl/XhDbYdB6U6FsqZ5p7). Exit on the east side of Wisconsin Avenue; the bus stop is a few yards from the escalator exit at 40th and Albemarle (by the Wawa). Shuttles run on a continuous loop, and the ride to campus is about 5 minutes. You don’t need any special pass to ride. Exit at Kerwin Hall just after Ward Circle.
+* Ride-shares and cabs will usually drop passengers at one of two spots on campus: the intersection of Nebraska Avenue and New Mexico (easiest), or entering campus from Massachusetts Ave and letting people out on Lydecker Road.
 
 ## Day 10
 Friday, July 19 - Celebration and final presentations
 
-Presentations - we'd love to hear a highlight of something you've learned from the Data Institute. Each person will have about 5 minutes to jump to the front of the room, plug in your laptop if you would like to, and share something from the Data Institute.
+Presentations - we'd love to hear a highlight of something you've learned from the Data Institute. Each person will have about 5 minutes to jump to the front of the room, plug in your laptop if youd like to, and share something you're excited about.
 
-This is super laid back and celebratory! It could be related to a project you were thinking about coming into the Data Institute and you have new ideas for from what you learned, or it could be just a few minutes about one concept you really loved and keep thinking about. We'll chat more about this on Thursday. Feel free to reach out with any questions sooner than that though!
+This is super laid back and celebratory! You could talk about anything:
+
+* a project you've been working on for a while, and now you have new ideas to try
+* a project you've been wanting to work on but felt stuck, and now you've figured out the right next step
+* a class you've been teaching that you're ready to bring these concepts into
+* something you learned at the institute that you really loved and keep thinking about
+
+Again, this is *very* informal. A moment to celebrate what we learned, and share some of your own work with the rest of the cohort. We can chat more about this throughout the institute. Feel free to reach out with any questions any time!
