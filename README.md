@@ -192,13 +192,15 @@ Wednesday, July 17
  		* If you would like to make a portfolio, [here's a handy guide from Lena](http://lenagroeger.com/makeawebsite/)! 
 
 ## Day 9
-Thursday, July 18 - Field trip day!
+Thursday, July 18
+
+### Field trip day!
 
 In the morning, we'll meet in our usual workspace at 9:30 a.m. for some open work time. We can talk about projects you're in the middle of, and strategies to keep learning after the Data Institute. Around 11:15 a.m., we'll break so you can drop off your stuff at the dorm before we head out for lunch and some discussion.
 
 Today we'll get to visit with the Investigative Reporting Workshop on the campus of American University. 
 
-* **When:** 12:30pm, Thursday, July 18
+* **When:** Thursday, July 18, at 12:30pm
 * **Where:** [American University, McKinley Building (School of Communication), Room 101](https://maps.app.goo.gl/4RkW7u8mB62da5ScA)
 
 At IRW, we'll have lunch and a chance to chat with Wesley Lowery, Aarushi Sahejpal, and some investigative fellows who are there for the summer. We'll wrap up by mid-afternoon and then you're free to explore DC on your own.
@@ -209,9 +211,11 @@ Please coordinate with each other on transit! The McKinley Building is on the co
 * Ride-shares and cabs will usually drop passengers at one of two spots on campus: the intersection of Nebraska Avenue and New Mexico (easiest), or entering campus from Massachusetts Ave and letting people out on Lydecker Road.
 
 ## Day 10
-Friday, July 19 - Celebration and final presentations
+Friday, July 19
 
-Presentations - we'd love to hear a highlight of something you've learned from the Data Institute. Each person will have about 5 minutes to jump to the front of the room, plug in your laptop if youd like to, and share something you're excited about.
+### Celebration and final presentations
+
+We'd love to hear a highlight of something you've learned from the Data Institute. Each person will have about 5 minutes to jump to the front of the room, plug in your laptop if youd like to, and share something you're excited about.
 
 This is super laid back and celebratory! You could talk about anything:
 
