@@ -66,12 +66,7 @@ Tuesday, July 9
 ## Day 3
 Wednesday, July 10
 
-Basic Geographic Data
-- [John Snow's map](https://upload.wikimedia.org/wikipedia/commons/2/27/Snow-cholera-map-1.jpg)
-- [Census Geocoder](https://geocoding.geo.census.gov/geocoder/locations/addressbatch?form)
-- [Maryland zip codes](https://data.imap.maryland.gov/datasets/maryland::maryland-political-boundaries-zip-codes-5-digit/explore?location=38.977456%2C-77.408308%2C8.94)
-
-[ CURRICULUM UPDATE COMING ]
+<a href="https://propublica.s3.amazonaws.com/data-institute/Data%20Institute%20Tabula.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/data-institute-tabula.png"></a>
 
 ## Day 4
 Thursday, July 11
