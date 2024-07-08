@@ -50,7 +50,7 @@ Monday, July 8
 
 ### Intro to Data Journalism
 <a href="https://propublica.s3.amazonaws.com/data-institute/intro-to-data-2023.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/intro-to-data.jpg"></a>
-<a href="https://propublica.s3.amazonaws.com/data-institute/intro-to-spreadsheets%202023.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/intro-to-spreadsheets.jpg"></a>
+<a href="https://propublica.s3.amazonaws.com/projects/datainstitute/Intro-to-spreadsheets-2022.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/intro-to-spreadsheets.jpg"></a>
 <a href="https://propublica.s3.amazonaws.com/data-institute/finding-data-2023.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/finding-data.jpg"></a>
 <a href="https://propublica.s3.amazonaws.com/data-institute/loading-data%202023.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/loading-data.jpg"></a>
 <a href="https://propublica.s3.amazonaws.com/data-institute/best-practices-2023.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/best-practices.jpg"></a>
