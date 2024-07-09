@@ -135,6 +135,7 @@ Monday, July 15
 
 <a href="https://lenagroeger.com/design_workshop/data-institute-2024#/"><img width="500" src="https://static.propublica.org/projects/datainstitute/intro-to-design.png"></a>
 
+<a href="https://pages.github.com/"><img width="500" src="https://static.propublica.org/projects/datainstitute/github-pages.jpg"></a>
 
 
 
