@@ -22,8 +22,8 @@ Week 2:
 - [Day 6: Intro to Design, Make Your Own Website](#day-6)
 - [Day 7: Web Scraping, Fundamentals of Programming](#day-7)
 - [Day 8: Even More Web Scraping](#day-8)
-- [Day 9: Continuing learning / Field Trip](#day-9)
-- [Day 10: Final Presentations](#day-10)
+- [Day 9: Continuing Learning / Field Trip](#day-9)
+- [Day 10: Celebration: Final Show & Tell](#day-10)
 
 ## Welcome Reception & Install Party
 
@@ -216,7 +216,7 @@ Please coordinate with each other on transit! The McKinley Building is on the co
 ## Day 10
 Friday, July 19
 
-### Celebration and final presentations
+### Celebration and final show & tell
 
 We'd love to hear a highlight of something you've learned from the Data Institute. Each person will have about 5 minutes to jump to the front of the room, plug in your laptop if youd like to, and share something you're excited about.
 
