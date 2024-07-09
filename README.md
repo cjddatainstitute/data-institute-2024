@@ -19,7 +19,7 @@ Week 1:
 
 
 Week 2:
-- [Day 6: Intro to Design, Type, Layout & Color](#day-6)
+- [Day 6: Intro to Design, Make Your Own Website](#day-6)
 - [Day 7: Web Scraping, Fundamentals of Programming](#day-7)
 - [Day 8: Even More Web Scraping](#day-8)
 - [Day 9: Continuing learning / Field Trip](#day-9)
@@ -135,6 +135,7 @@ Monday, July 15
 
 <a href="https://lenagroeger.com/design_workshop/data-institute-2024#/"><img width="500" src="https://static.propublica.org/projects/datainstitute/intro-to-design.png"></a>
 
+### Make Your Own Website
 <a href="https://pages.github.com/"><img width="500" src="https://static.propublica.org/projects/datainstitute/github-pages.jpg"></a>
 
 
