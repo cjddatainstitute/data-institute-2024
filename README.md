@@ -131,7 +131,7 @@ Copy and paste <a href="https://codepen.io/sisiwei/pen/KzLezJ?editors=1000">this
 ## Day 6
 Monday, July 15
 
-### Design Concepts as Journalistic Tools
+### Intro to Design
 
 <a href="https://lenagroeger.com/design_workshop/data-institute-2024#/"><img width="500" src="https://static.propublica.org/projects/datainstitute/intro-to-design.png"></a>
 
