@@ -12,8 +12,8 @@ Want to use our slides? Our teaching materials fall under the [Creative Commons 
 
 Week 1:
 - [Day 1: Intro to Data Journalism, Spreadsheets, Best Practices](#day-1)
-- [Day 2: Evaluating data, Open Refine, Analyzing One Variable](#day-2)
-- [Day 3: Intro to Mapping, Common Calculations in News, Analyzing Two Variables, Statistics](#day-3)
+- [Day 2: Evaluating Data, Open Refine, Analyzing One Variable](#day-2)
+- [Day 3: Tabula, AI, and Putting It All Together](#day-3)
 - [Day 4: Visualizing Data, Charts and Maps](#day-4)
 - [Day 5: Intro to Code, How Websites Work, HTML, CSS](#day-5)
 
