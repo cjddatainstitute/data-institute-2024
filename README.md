@@ -67,6 +67,7 @@ Tuesday, July 9
 Wednesday, July 10
 
 <a href="https://propublica.s3.amazonaws.com/data-institute/Data%20Institute%20Tabula.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/data-institute-tabula.png"></a>
+<a href="https://propublica.s3.amazonaws.com/data-institute/2024%20Analysis-grab-bag.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/data-analysis-grab-bag.png"></a>
 
 ## Day 4
 Thursday, July 11
